@@ -15,7 +15,7 @@ public class Dlewor {
         System.out.println("Welcome to Dlewor(TM)");
 
         // Hello World for colored text and background
-        System.out.print(ANSI_GREEN_BACKGROUND + ANSI_BLACK + "Hello");
+        System.out.print(ANSI_GREEN_BACKGROUND + ANSI_BLACK + "Hello ");
         System.out.print(ANSI_YELLOW_BACKGROUND + ANSI_BLACK + "World");
         System.out.print(ANSI_WHITE_BACKGROUND + ANSI_BLACK + "!");
         System.out.println(ANSI_RESET);
